@@ -1,3 +1,3 @@
 npm install
-npm rebuild node-sass
+cnpm install node-sass   
 npm run build
